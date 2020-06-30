@@ -1,15 +1,9 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "LeeSujeong"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
-
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+본 블로그는 충남대학교 컴공과 2020년도 하기 모각코 진행을 위한 팀 블로그 입니다.  
+일정과 팀원에 대한 정보는 [페이지](https://mogakco2020.github.io/2020-06-30/0-%EB%AA%BB%EC%9D%BD%EA%B2%A0%EC%A1%B0)를 참고하세요!
